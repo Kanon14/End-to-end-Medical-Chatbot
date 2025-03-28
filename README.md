@@ -18,7 +18,7 @@ This repository contains a **Medical Chatbot** powered by **Retrieval-Augmented 
 ### How to Execute?
 1. **Clone the repository:**
 ```bash
-git clone https://https://github.com/Kanon14/End-to-end-Medical-Chatbot.git
+git clone https://github.com/Kanon14/End-to-end-Medical-Chatbot.git
 cd End-to-end-Medical-Chatbot
 ```
 
